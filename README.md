@@ -58,7 +58,7 @@ New parents often juggle fragmented notes, apps, and memory. Nurtrack centralize
 - React (Vite)
 - React Router
 - Material UI (MUI)
-- SCSS
+- SASS
 - Recharts or Chart.js
 - Axios
 
