@@ -70,7 +70,6 @@ New parents often juggle fragmented notes, apps, and memory. Nurtrack centralize
 
 ### Database
 - PostgreSQL
-- Prisma ORM
 
 ### AI Integration
 - OpenAI or Anthropic Claude API
@@ -79,8 +78,8 @@ New parents often juggle fragmented notes, apps, and memory. Nurtrack centralize
 
 ### DevOps
 - GitHub Actions (CI)
-- Vercel or Netlify (Frontend)
-- Railway, Render, or Fly.io (Backend)
+- Vercel (Frontend)
+- Railway (Backend)
 
 ---
 
