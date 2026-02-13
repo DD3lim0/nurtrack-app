@@ -1,8 +1,13 @@
 import { Module } from "@nestjs/common";
-import { diapersController } from "./controllers/diapers.controller";
+import { DiapersController } from "./controllers/diapers.controller";
+import { GrowthController } from "./controllers/growth.controller";
+import { MealController } from "./controllers/meals.controller";
 
 @Module({
-    controllers:[diapersController],
+    controllers:[DiapersController, GrowthController,MealController],
+    providers: [], 
+    imports:[],
+    exports:[]
 })
 
 export class trackingModule {}
